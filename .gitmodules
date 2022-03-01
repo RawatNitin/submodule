@@ -1,0 +1,3 @@
+[submodule "submodule-poc/src/spaceX"]
+	path = submodule-poc/src/spaceX
+	url = https://github.com/RawatNitin/spaceX.git
